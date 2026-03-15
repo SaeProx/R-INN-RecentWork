@@ -1,5 +1,5 @@
 ---
-*Training process: solver_final_robust.py.(Supprots dataset in .npy form.)
+*Training process: solver_final_robust.py.(Supports dataset in .npy form.)
 
 *Validating process: solver_inference_single.py (Now supprots only single sample input, in .npy form.)
 
